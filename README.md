@@ -1,9 +1,11 @@
 # TalcoTime
 
-Horloges du monde personnalisables, PWA installable, hors-ligne.
+Horloges du monde personnalisables (7 ambiances de couleurs), PWA installable, hors-ligne.
 
-- 6 affichages : analogique, digital, anneaux, néon, barres, en lettres
+- 7 affichages : analogique, flip, arcs, néon, digital, barres, en lettres, avec bande jour/nuit
 - 24 modèles prêts à l'emploi + tes propres modèles (bouton « En modèle »)
+- Plein écran immersif : glisse ← → pour changer de style, ↑ ↓ pour changer d'horloge (flèches du clavier aussi)
+- Une quarantaine de réglages par horloge (police, épaisseur, séparateur, animation, surface, cadran…)
 - Éditeur avec aperçu en direct, bouton « Surprends-moi »
 - Favoris (horloges et modèles), recherche, tri, sauvegarde JSON
 - Tout est stocké dans le localStorage du navigateur
